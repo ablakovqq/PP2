@@ -1,0 +1,10 @@
+/Users/Gappar/Projects/Task1/Task3/bin/Debug/Task3.exe
+/Users/Gappar/Projects/Task1/Task3/bin/Debug/Task3.pdb
+/Users/Gappar/Projects/Task1/Task3/obj/x86/Debug/Task3.csproj.CoreCompileInputs.cache
+/Users/Gappar/Projects/Task1/Task3/obj/x86/Debug/Task3.exe
+/Users/Gappar/Projects/Task1/Task3/obj/x86/Debug/Task3.pdb
+/Users/Gappar/Desktop/Task1/Task3/bin/Debug/Task3.exe
+/Users/Gappar/Desktop/Task1/Task3/bin/Debug/Task3.pdb
+/Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.csproj.CoreCompileInputs.cache
+/Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.exe
+/Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.pdb

@@ -1,0 +1,11 @@
+/Users/Gappar/Projects/Task1/Task2/bin/Debug/Task2.exe
+/Users/Gappar/Projects/Task1/Task2/bin/Debug/Task2.pdb
+/Users/Gappar/Projects/Task1/Task2/obj/x86/Debug/Task2.csproj.CoreCompileInputs.cache
+/Users/Gappar/Projects/Task1/Task2/obj/x86/Debug/Task2.exe
+/Users/Gappar/Projects/Task1/Task2/obj/x86/Debug/Task2.pdb
+/Users/Gappar/Desktop/Task1/Task2/bin/Debug/Task2.exe
+/Users/Gappar/Desktop/Task1/Task2/bin/Debug/Task2.pdb
+/Users/Gappar/Desktop/Task1/Task2/obj/x86/Debug/Task2.csprojAssemblyReference.cache
+/Users/Gappar/Desktop/Task1/Task2/obj/x86/Debug/Task2.csproj.CoreCompileInputs.cache
+/Users/Gappar/Desktop/Task1/Task2/obj/x86/Debug/Task2.exe
+/Users/Gappar/Desktop/Task1/Task2/obj/x86/Debug/Task2.pdb
