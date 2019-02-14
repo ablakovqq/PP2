@@ -1,0 +1,10 @@
+/Users/Gappar/Desktop/Lab1/Task1/bin/Debug/Lab1.exe
+/Users/Gappar/Desktop/Lab1/Task1/bin/Debug/Lab1.pdb
+/Users/Gappar/Desktop/Lab1/Task1/bin/Debug/GitVersionCore.dll
+/Users/Gappar/Desktop/Lab1/Task1/bin/Debug/GitVersionCore.pdb
+/Users/Gappar/Desktop/Lab1/Task1/bin/Debug/GitVersionCore.xml
+/Users/Gappar/Desktop/Lab1/Task1/obj/x86/Debug/Task1.csprojAssemblyReference.cache
+/Users/Gappar/Desktop/Lab1/Task1/obj/x86/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/Gappar/Desktop/Lab1/Task1/obj/x86/Debug/Task1.csproj.CopyComplete
+/Users/Gappar/Desktop/Lab1/Task1/obj/x86/Debug/Lab1.exe
+/Users/Gappar/Desktop/Lab1/Task1/obj/x86/Debug/Lab1.pdb
