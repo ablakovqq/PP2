@@ -8,3 +8,9 @@
 /Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.csproj.CoreCompileInputs.cache
 /Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.exe
 /Users/Gappar/Desktop/Task1/Task3/obj/x86/Debug/Task3.pdb
+/Users/Gappar/Desktop/Lab1/Task3/bin/Debug/Task3.exe
+/Users/Gappar/Desktop/Lab1/Task3/bin/Debug/Task3.pdb
+/Users/Gappar/Desktop/Lab1/Task3/obj/x86/Debug/Task3.csprojAssemblyReference.cache
+/Users/Gappar/Desktop/Lab1/Task3/obj/x86/Debug/Task3.csproj.CoreCompileInputs.cache
+/Users/Gappar/Desktop/Lab1/Task3/obj/x86/Debug/Task3.exe
+/Users/Gappar/Desktop/Lab1/Task3/obj/x86/Debug/Task3.pdb
