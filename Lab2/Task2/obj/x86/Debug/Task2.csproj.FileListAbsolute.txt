@@ -1,0 +1,6 @@
+/Users/Gappar/Desktop/Lab2/Task2/bin/Debug/Task2.exe
+/Users/Gappar/Desktop/Lab2/Task2/bin/Debug/Task2.pdb
+/Users/Gappar/Desktop/Lab2/Task2/obj/x86/Debug/Task2.csproj.CoreCompileInputs.cache
+/Users/Gappar/Desktop/Lab2/Task2/obj/x86/Debug/Task2.exe
+/Users/Gappar/Desktop/Lab2/Task2/obj/x86/Debug/Task2.pdb
+/Users/Gappar/Desktop/Lab2/Task2/obj/x86/Debug/Task2.csprojAssemblyReference.cache
